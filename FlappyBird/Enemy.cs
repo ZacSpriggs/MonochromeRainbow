@@ -21,8 +21,8 @@ namespace FlappyBird
 		public void Initialise(Scene pointerScene)
 		{
 			position = new Vector2(100.0f,100.0f);
-			textureManager = new TextureManager(pointerScene);
-			textureManager.LoadTexture ("/Application/textures/GenericTexture.png", position);
+			textureManager = new TextureManager("/Application/textures/GenericTexture.png", pointerScene);
+			
 			
 		}
 		

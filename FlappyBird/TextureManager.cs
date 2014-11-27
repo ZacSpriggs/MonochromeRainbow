@@ -13,12 +13,10 @@ namespace FlappyBird
 		public SpriteUV sprite;
 		public TextureInfo textureInfo;
 		public Vector2 textureSize;
+		public Scene scene1;
+		public Vector2 position;
 		
-		public TextureManager (Scene scene)
-		{
-			
-		}
-		public void LoadTexture(string path, Vector2 position)
+		public TextureManager (string path, Scene scene)
 		{
 			textureInfo = new TextureInfo(path);
 			
@@ -26,9 +24,9 @@ namespace FlappyBird
 			sprite = new SpriteUV(textureInfo);
 			sprite.Quad.S = textureInfo.TextureSizef;
 			sprite.Position = position;
-			
-			
+			scene.AddChild(sprite);
 		}
+		
 		
 		public void Animate()
 		{

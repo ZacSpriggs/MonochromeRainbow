@@ -43,3 +43,7 @@ C:\Users\nathan\Documents\GitHub\MonochromeRainbow\MonochromeRainbow\FlappyBird\
 C:\Users\nathan\Documents\GitHub\MonochromeRainbow\MonochromeRainbow\FlappyBird\obj\Debug\convertedpdb\app.exe.mdb
 C:\Users\nathan\Documents\GitHub\MonochromeRainbow\MonochromeRainbow\FlappyBird\obj\Debug\app.exe
 C:\Users\nathan\Documents\GitHub\MonochromeRainbow\MonochromeRainbow\FlappyBird\obj\Debug\app.pdb
+H:\MonochromeRainbow\FlappyBird\obj\Debug\shaders\shaders\Texture.cgx
+H:\MonochromeRainbow\FlappyBird\obj\Debug\app.exe
+H:\MonochromeRainbow\FlappyBird\obj\Debug\convertedpdb\app.exe.mdb
+H:\MonochromeRainbow\FlappyBird\obj\Debug\app.pdb
