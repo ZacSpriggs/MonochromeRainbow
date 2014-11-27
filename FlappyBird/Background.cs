@@ -35,13 +35,6 @@ namespace FlappyBird
 			Bounds2 b = sprites[0].Quad.Bounds2();
 			width     = b.Point10.X;
 			
-			//Position pipes.
-			sprites[0].Position = new Vector2(0.0f, 0.0f);
-			
-			sprites[1].Position = new Vector2(sprites[0].Position.X+width, 0.0f);
-			
-			sprites[2].Position = new Vector2(sprites[1].Position.X+width, 0.0f);
-			
 			//Add to the current scene.
 			foreach(SpriteUV sprite in sprites)
 				scene.AddChild(sprite);
@@ -51,32 +44,8 @@ namespace FlappyBird
 		{
 			textureInfo.Dispose();
 		}
-		
-		public void Update(float deltaTime)
-		{			
-			sprites[0].Position = new Vector2(sprites[0].Position.X - 0.5f, sprites[0].Position.Y);
-			sprites[1].Position = new Vector2(sprites[1].Position.X - 0.5f, sprites[1].Position.Y);
-			sprites[2].Position = new Vector2(sprites[2].Position.X - 0.5f, sprites[2].Position.Y);
-			
-			//Move the background.
-			//Left
-			if(sprites[0].Position.X < -width)
-				sprites[0].Position = new Vector2(sprites[2].Position.X+width, 0.0f);
-			else
-				sprites[0].Position = new Vector2(sprites[0].Position.X-1, 0.0f);	
-			
-			//Middle
-			if(sprites[1].Position.X < -width)
-				sprites[1].Position = new Vector2(sprites[0].Position.X+width, 0.0f);
-			else
-				sprites[1].Position = new Vector2(sprites[1].Position.X-1, 0.0f);	
-			
-			//Right
-			if(sprites[2].Position.X < -width)
-				sprites[2].Position = new Vector2(sprites[1].Position.X+width, 0.0f);
-			else
-				sprites[2].Position = new Vector2(sprites[2].Position.X-1, 0.0f);	
-		}
 	}
 }
+
+
 
