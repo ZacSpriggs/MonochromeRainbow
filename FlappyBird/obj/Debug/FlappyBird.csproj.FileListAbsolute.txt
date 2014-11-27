@@ -35,3 +35,11 @@ E:\TGP\FlappyBird\FlappyBird\bin\Debug\FlappyBird-signed\Application\textures\ba
 E:\TGP\FlappyBird\FlappyBird\bin\Debug\FlappyBird.psdp
 E:\TGP\FlappyBird\FlappyBird\bin\Debug\FlappyBird-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
 E:\TGP\FlappyBird\FlappyBird\bin\Debug\FlappyBird-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\nathan\Documents\GitHub\MonochromeRainbow\MonochromeRainbow\FlappyBird\bin\Debug\FlappyBird-unsigned\Application\app.exe
+C:\Users\nathan\Documents\GitHub\MonochromeRainbow\MonochromeRainbow\FlappyBird\bin\Debug\FlappyBird-unsigned\Application\Sce.PlayStation.HighLevel.GameEngine2D.dll
+C:\Users\nathan\Documents\GitHub\MonochromeRainbow\MonochromeRainbow\FlappyBird\bin\Debug\FlappyBird-unsigned\Application\System.Core.dll
+C:\Users\nathan\Documents\GitHub\MonochromeRainbow\MonochromeRainbow\FlappyBird\bin\Debug\FlappyBird-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\nathan\Documents\GitHub\MonochromeRainbow\MonochromeRainbow\FlappyBird\obj\Debug\shaders\shaders\Texture.cgx
+C:\Users\nathan\Documents\GitHub\MonochromeRainbow\MonochromeRainbow\FlappyBird\obj\Debug\convertedpdb\app.exe.mdb
+C:\Users\nathan\Documents\GitHub\MonochromeRainbow\MonochromeRainbow\FlappyBird\obj\Debug\app.exe
+C:\Users\nathan\Documents\GitHub\MonochromeRainbow\MonochromeRainbow\FlappyBird\obj\Debug\app.pdb
