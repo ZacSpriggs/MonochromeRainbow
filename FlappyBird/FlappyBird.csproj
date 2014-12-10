@@ -42,6 +42,7 @@
     <Compile Include="Background.cs" />
     <Compile Include="Enemy.cs" />
     <Compile Include="TextureManager.cs" />
+    <Compile Include="Collectible.cs" />
   </ItemGroup>
   <ItemGroup>
     <PsmMetadata Include="app.xml" />
