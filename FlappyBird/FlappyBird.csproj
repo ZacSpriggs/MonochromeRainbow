@@ -61,5 +61,8 @@
     <Content Include="textures\bird.png" />
     <Content Include="textures\toppipe.png" />
     <Content Include="textures\GenericTexture.png" />
+    <Content Include="textures\bird1.png" />
+    <Content Include="textures\bird2.png" />
+    <Content Include="textures\bird3.png" />
   </ItemGroup>
 </Project>
