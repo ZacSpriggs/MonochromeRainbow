@@ -47,3 +47,7 @@ H:\MonochromeRainbow\FlappyBird\obj\Debug\shaders\shaders\Texture.cgx
 H:\MonochromeRainbow\FlappyBird\obj\Debug\app.exe
 H:\MonochromeRainbow\FlappyBird\obj\Debug\convertedpdb\app.exe.mdb
 H:\MonochromeRainbow\FlappyBird\obj\Debug\app.pdb
+C:\Users\Zac\Documents\Monochrome\MonochromeRainbow\FlappyBird\obj\Debug\shaders\shaders\Texture.cgx
+C:\Users\Zac\Documents\Monochrome\MonochromeRainbow\FlappyBird\obj\Debug\convertedpdb\app.exe.mdb
+C:\Users\Zac\Documents\Monochrome\MonochromeRainbow\FlappyBird\obj\Debug\app.exe
+C:\Users\Zac\Documents\Monochrome\MonochromeRainbow\FlappyBird\obj\Debug\app.pdb
