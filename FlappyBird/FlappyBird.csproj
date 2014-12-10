@@ -41,7 +41,6 @@
     <Compile Include="AppMain.cs" />
     <Compile Include="Background.cs" />
     <Compile Include="Enemy.cs" />
-    <Compile Include="TextureManager.cs" />
     <Compile Include="Collectible.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -61,6 +60,5 @@
     <Content Include="textures\bottompipe.png" />
     <Content Include="textures\bird.png" />
     <Content Include="textures\toppipe.png" />
-    <Content Include="textures\background.png" />
   </ItemGroup>
 </Project>
